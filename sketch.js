@@ -1,6 +1,6 @@
-let state;
-
-let stateChanged = false; // NEW
+let list = [];
+let name = prompt("Enter your name: ");
+list.push(name);
 
 
 let mushrooms;
