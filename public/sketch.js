@@ -97,7 +97,7 @@ function gameOver() {
   background(255, 33, 33);
   fill(255, 171, 171);
   textFont(pixFont, 74, 30);
-  text("CONGRATS", width/2, height/2 - 50);
+  text("CONGRATS, " + name, width/2, height/2 - 50);
 
 
   
